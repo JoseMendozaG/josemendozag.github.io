@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Twisted Strings Robotic Arm"
+excerpt: "Robotic arm for colaborative tasks moved by twisting string actuators (South Korea, 2021). <br/><img src='/images/Twisted.gif'>"
 collection: portfolio
 ---
 
