@@ -1,6 +1,6 @@
 ---
 title: "MR WAS"
-excerpt: "Creation of an Automated Guided Vehicle (AGV) to do collaborative work in an Industrial Warehouse (2019). <br/><img src='/images/MrWAS1'>"
+excerpt: "Creation of an Automated Guided Vehicle (AGV) to do collaborative work in an Industrial Warehouse (2019). <br/><img src='/images/MrWAS1.jpg'>"
 collection: portfolio
 ---
 
