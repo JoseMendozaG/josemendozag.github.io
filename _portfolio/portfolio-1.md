@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ankle Rehabilitation Device"
+excerpt: "Stewart platform focused on ankle rehabilitation (2021). <br/><img src='/images/StewartGif2.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Device created basen on a Stewart Platform model with six degrees of freedom. Its objective is to help rehabilitation clinics to attend patients remontly.
