@@ -18,3 +18,5 @@ Heading 2
 
 Heading 3
 ======
+
+<br/><img src='/images/Deere.jpg'>

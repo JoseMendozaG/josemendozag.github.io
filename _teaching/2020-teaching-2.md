@@ -1,7 +1,7 @@
 ---
 title: "Manufacture Intern"
 collection: teaching
-type: "John Deere"
+type: "BOHN"
 permalink: /teaching/2020-teaching-2
 venue: "manufacturing department"
 date: "01/2020 - 06/2020"
