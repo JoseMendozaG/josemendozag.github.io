@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an enthusiastic mechatronics engineeer with experience in mechanical design. My goal is to aplly my wide knowledge in CAD design into the machines that will change the world for a better future. 
+I am an enthusiastic mechatronics engineer with experience in mechanical design. My goal is to aplly my wide knowledge in CAD design into the machines that will change the world for a better future. 
 
 About Myself
 ======
