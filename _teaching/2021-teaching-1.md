@@ -2,7 +2,7 @@
 title: "Product Designer"
 collection: teaching
 type: "John Deere"
-permalink: /teaching/JohnDeere2021
+permalink: /teaching/2020-teaching-1
 venue: "Hydraulics and Routing"
 date: "12/2021 - Present"
 location: "Monterrey, Mexico"
