@@ -2,7 +2,7 @@
 title: "Manufacture Intern"
 collection: teaching
 type: "John Deere"
-permalink: /teaching/Bohn2020
+permalink: /teaching/2020-teaching-2
 venue: "manufacturing department"
 date: "01/2020 - 06/2020"
 location: "Queretaro, Mexico"
