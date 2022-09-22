@@ -5,4 +5,4 @@ specifically in the ankle's joints (2020). <br/><img src='/images/Mx1ss.JPG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Support on the creation of a kid-size-humanoid. Support on the design of the legs focused on the ankles movement. 

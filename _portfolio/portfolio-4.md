@@ -4,4 +4,4 @@ excerpt: "Three robots compete in a soccer match using robotic vision (2020). <b
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+With aim for the Mexican Robotics Tournament, I designed a robot's template that would be used for the three two-wheeled robots. Using computer vision and control systems we developed autonomous soccer-playing small robots. Each robot cannot have a size greater than 10x10x10 cm. 

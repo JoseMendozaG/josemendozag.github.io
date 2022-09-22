@@ -4,4 +4,4 @@ excerpt: "Robotic arm for colaborative tasks moved by twisting string actuators 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Support for the Robotics' Laboratoy of the Chung-ang University. Design of the wrist for a collaborative robotic arm which uses a Twisted-String-actuators system. 

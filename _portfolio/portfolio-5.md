@@ -4,4 +4,4 @@ excerpt: "Creation of an Automated Guided Vehicle (AGV) to do collaborative work
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Part of a semester project we design, manufactured and developed an AGV that can lift 20kg with its 14kg of weight. Also awarded third place on the Engineering Expo of the campus. 

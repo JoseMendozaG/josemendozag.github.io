@@ -4,4 +4,4 @@ excerpt: "Firefighter autonomous robot competing in a simulated enviroment. Cont
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Robot used to compete on the RoboRave International competition in China. Awarded second price for its performance. 
