@@ -9,6 +9,7 @@ location: "Monterrey, Mexico"
 ---
 
 Working as a product designer of aftermarket solutions for agricultural machinery. 
+<br/><img src='/images/Deere.jpg'>
 
 Sprayers 
 ====== 
@@ -27,4 +28,4 @@ Combines
 
 Support on the hydraulic lines' routings for the "End Fender Augers". Its objective is to increase the harvesting area of the machina by adding augers to the sides of the machine. 
 
-<br/><img src='/images/Deere.jpg'>
+<br/><img src='/images/DeereTeam.jepg'>
