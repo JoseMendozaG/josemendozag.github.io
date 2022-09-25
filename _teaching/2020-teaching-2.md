@@ -9,7 +9,6 @@ location: "Queretaro, Mexico"
 ---
 
 Multidiplinary team with a series of projects leading to the optimization of the manufacturing process of "special coils" used in refrigeration equipment. 
-<br/><img src='/images/BohnTeam.jpeg'>
 
 
 Assembly table 
@@ -23,5 +22,5 @@ Transportation
 
 We found an opportunity area in the transport of the biggest coils through the assembly line. In the operation they'd need at least three workers to move the coil, but with our proposal with cranes, the operation would require only one worker.  
 
-<br/><img src='/images/BOHN_Work.jpg'>
+<br/><img src='/images/BOHN_Work.JPG'>
 
