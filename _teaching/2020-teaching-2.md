@@ -22,5 +22,5 @@ Transportation
 
 We found an opportunity area in the transport of the biggest coils through the assembly line. In the operation they'd need at least three workers to move the coil, but with our proposal with cranes, the operation would require only one worker.  
 
-<br/><img src='/images/BOHN_Work.JPG'>
+<br/><img src='/images/BOHN_Work.JPG'  max-height=50%>
 

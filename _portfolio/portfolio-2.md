@@ -4,4 +4,6 @@ excerpt: "Robotic arm for colaborative tasks moved by twisting string actuators 
 collection: portfolio
 ---
 
-Support for the Robotics' Laboratoy of the Chung-ang University. Design of the wrist for a collaborative robotic arm which uses a Twisted-String-actuators system. 
+Support for the Robotics' Laboratoy of the Chung-ang University. I designed the wrist aswell as giving support in the construction of the robotic arm, giving atention to the movement of the joints. Also, the wrist and some other components were 3D printed. 
+
+<br/><img src='/images/TwistedArm1.jpg'>
