@@ -9,6 +9,7 @@ location: "Monterrey, Mexico"
 ---
 
 Working as a product designer of aftermarket solutions for agricultural machinery. 
+<br/><img src='/images/Deere.jpg'>
 
 Sprayers 
 ====== 

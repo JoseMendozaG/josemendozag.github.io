@@ -9,7 +9,7 @@ location: "Queretaro, Mexico"
 ---
 
 Multidiplinary team with a series of projects leading to the optimization of the manufacturing process of "special coils" used in refrigeration equipment. 
-
+<br/><img src='/images/BohnTeam'>
 
 Assembly table 
 ====== 
