@@ -5,27 +5,30 @@ collection: portfolio
 ---
 
 ## Aplication
-=====
+
 Device focused in giving affordable, efective and customizalbe rehabilitation treatments for ankle injurys. 
 
+
 ## Parallel Robot
-=====
+
 <p style='text-align: justify;'> 
 Six-degrees-of-freedom mechanism with two bodys (base and plate) conected with six linear actuators. I designed the universal joints on top and bottom of the device which made it cappable of holding up to 200 kg.
 </p>
 
 <br/><img src='/images/SP_render.JPG'>
 
+
 ## Control
-=====
+
 <p style='text-align: justify;'> 
 Design of a robust controller based on a Super-twisting PD controller for each individual motor programed into a micro-controller. An important part of the project was the precise caracterization of the linear actuators.
 
 The rutines were programed in simulink (for a visual representation of the process) using inverse kinematics. The position for each motor was sent to the micro-controller by a serial communication protocol that we designed. 
 </p> 
 
+
 ## Rutines
-=====
+
 <p style='text-align: justify;'> 
 By the end of my participation on the project, the device had four pre-programed rutines:
 

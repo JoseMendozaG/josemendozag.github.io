@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Awards
-======
 * Award for excellent performance on the EGEL (2021)
 * Award for excellence in comprehensive academic training (2017-2021)
 * Fist place Regional Engineering Expo - Anlke Platform Device (2021)
@@ -18,7 +17,6 @@ redirect_from:
 * Second Prize - Firefighting Robot (2019)
 
 ## Technical Skills
-======
 * CREO Parametric
 * Gemetric Dimensioning and Tolerances (GD&T)
 * Model Based Definition (MBD)
@@ -29,7 +27,6 @@ redirect_from:
 * MatLab
 
 ## Soft Skills
-======
 * Leadership
 * Adaptability
 * Problem Solving
@@ -38,12 +35,10 @@ redirect_from:
 * Time Managment 
 
 ## Certificates 
-======
 * SolidWorks Professional Certification (CSWP)
 * White Belt (Lean Six Sigma)
 
 ## Languages
-======
 * English (B2)
 * Spanish (Native)
 
