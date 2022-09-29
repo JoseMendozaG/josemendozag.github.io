@@ -11,7 +11,7 @@ location: "Monterrey, Mexico"
 Working as a product designer of aftermarket solutions for agricultural machinery. 
 <br/><img src='/images/Deere.jpg'>
 
-Sprayers 
+## Sprayers 
 ====== 
 <p style='text-align: justify;'> 
 Solution routing team lead for the integration of "See & Spray" and "Recirculation and Reclaim" project. The first one integrates computer vision to accurate spray either nutrients on plants or pesticide to weeds saving up to 70% of the solution used in this operation. The second one allows the solution to keep circulation through the boom, avoiding sediments and maintaining a constant pressure through the spraying operation.  
@@ -19,14 +19,14 @@ Solution routing team lead for the integration of "See & Spray" and "Recirculati
 Support on the solution routing for the "Recirculation" project to be implemented for Brazil.  
 </p>
 
-Planters 
+## Planters 
 ====== 
 
 <p style='text-align: justify;'> 
 Support on the solution routings for the "Exact Shot" project. The objective is to allow the farmer to spray fertilizer to each seed as the planting is happening, saving up to 80% of fertilizer solution in the operation.  
 </p>
 
-Combines 
+## Combines 
 ====== 
 
 <p style='text-align: justify;'> 

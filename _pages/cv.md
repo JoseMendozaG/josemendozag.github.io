@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Awards
+## Awards
 ======
 * Award for excellent performance on the EGEL (2021)
 * Award for excellence in comprehensive academic training (2017-2021)
@@ -17,7 +17,7 @@ Awards
 * Third place Campus Engineering Expo - Autonomous Guided Vehicle (2019)
 * Second Prize - Firefighting Robot (2019)
 
-Technical Skills
+## Technical Skills
 ======
 * CREO Parametric
 * Gemetric Dimensioning and Tolerances (GD&T)
@@ -28,7 +28,7 @@ Technical Skills
 * CATIA
 * MatLab
 
-Soft Skills
+## Soft Skills
 ======
 * Leadership
 * Adaptability
@@ -37,12 +37,12 @@ Soft Skills
 * Active Listening
 * Time Managment 
 
-Certificates 
+## Certificates 
 ======
 * SolidWorks Professional Certification (CSWP)
 * White Belt (Lean Six Sigma)
 
-Languages
+## Languages
 ======
 * English (B2)
 * Spanish (Native)

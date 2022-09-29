@@ -14,14 +14,14 @@ Multidiplinary team with a series of projects leading to the optimization of the
 
 <br/><img src='/images/BohnTeam.jpeg'>
 
-Assembly table 
+## Assembly table 
 ====== 
 
 <p style='text-align: justify;'> 
 After finding the bottleneck of the production line, we determined the model change was slowing the line and also the cause for down time. By designing an attachment to the current table and implementing it, we reduced the model change operation time by 70%.   
 </p>
 
-Transportation 
+## Transportation 
 ====== 
 
 <p style='text-align: justify;'> 
