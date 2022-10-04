@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Myself"
-excerpt: "About Myself"
+title: "Who am I?"
+excerpt: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,6 @@ I am an enthusiastic professional with experience in mechanical design. My goal 
 
 
 ## About Myself
-======
 
 <p style='text-align: justify;'> 
 I graduated from the Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) as a mechatronics engineer. Through my studies I had the opportunity to work several times with multi-disciplinary teams achieving awesome projects like an Ankle Rehabilitation Platform, a beach cleaner robot, among others. My main strength is the mechanical design, starting projects from scratch, modeling in CAD software, manufacturing pieces and assembling everything together to work the correct way. Also, I value my capability to keep improving designs as I detect issues or opportunity areas in them.  
