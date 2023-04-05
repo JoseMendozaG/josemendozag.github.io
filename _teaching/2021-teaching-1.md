@@ -1,5 +1,5 @@
 ---
-title: "Product Designer"
+title: "Design Engineer"
 collection: teaching
 type: "John Deere"
 permalink: /teaching/2020-teaching-1
@@ -8,7 +8,7 @@ date: "12/2021 - Present"
 location: "Monterrey, Mexico"
 ---
 
-Working as a product designer of aftermarket solutions for agricultural machinery as part of the "Performance Upgraged Kits" Team. 
+Working as a design engineer of aftermarket solutions for agricultural machinery as part of the "Performance Upgraged Kits" Team. 
 <br/><img src='/images/Deere.jpg'>
 
 ## Sprayers 
